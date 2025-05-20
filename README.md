@@ -15,7 +15,7 @@ A curated collection of modern, vibrant background patterns and gradients for we
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/vibrabg.git
+git clone https://github.com/Likhon-Official/VibraBG.git
 ```
 
 2. Install dependencies:
