@@ -1,3 +1,6 @@
+![Website Preview](./VibraBG.png)
+
+
 # 🎨 VibraBG - Premium Background Pattern Collection
 
 > **A stunning, modern web application showcasing 100+ beautiful background patterns and gradients. Perfect for developers, designers, and agencies looking for a professional background showcase solution.**
