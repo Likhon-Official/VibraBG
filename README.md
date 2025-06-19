@@ -2,7 +2,7 @@
 
 > **A stunning, modern web application showcasing 100+ beautiful background patterns and gradients. Perfect for developers, designers, and agencies looking for a professional background showcase solution.**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Here-blue?style=for-the-badge)](https://vibrabg-demo.vercel.app)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Here-blue?style=for-the-badge)](https://vibrabg.vercel.app/)
 [![License](https://img.shields.io/badge/📄_License-Premium-gold?style=for-the-badge)](#-pricing--licenses)
 [![Support](https://img.shields.io/badge/💬_Support-Available-green?style=for-the-badge)](#-contact--support)
 
