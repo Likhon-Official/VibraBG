@@ -184,25 +184,6 @@ vibrabg-premium/
 
 ---
 
-## 🖼️ **Screenshots & Preview**
-
-### 🏠 **Homepage - Light Theme**
-![Homepage Light](https://via.placeholder.com/800x500/f8fafc/64748b?text=Homepage+Light+Theme)
-
-### 🌙 **Homepage - Dark Theme**
-![Homepage Dark](https://via.placeholder.com/800x500/0f172a/e2e8f0?text=Homepage+Dark+Theme)
-
-### 🎨 **Background Gallery**
-![Background Gallery](https://via.placeholder.com/800x500/fef3c7/d97706?text=Background+Gallery+View)
-
-### 📱 **Mobile Responsive**
-<img src="https://via.placeholder.com/400x700/ddd6fe/7c3aed?text=Mobile+View" alt="Mobile View" width="300">
-
-### 🔍 **Search & Filter System**
-![Search Filter](https://via.placeholder.com/800x400/ecfdf5/059669?text=Search+%26+Filter+Interface)
-
----
-
 ## ⚙️ **Tech Stack**
 
 ### 🛠️ **Frontend Framework**
