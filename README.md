@@ -4,7 +4,7 @@
 
 > **A stunning, modern web application showcasing 100+ beautiful background patterns and gradients. Perfect for developers, designers, and agencies looking for a professional background showcase solution.**
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Here-blue?style=for-the-badge)](https://vibrabg.vercel.app/)
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-View_Here-blue?style=for-the-badge)](https://vibrabg-demo.vercel.app)
 [![License](https://img.shields.io/badge/📄_License-Premium-gold?style=for-the-badge)](#-pricing--licenses)
 [![Support](https://img.shields.io/badge/💬_Support-Available-green?style=for-the-badge)](#-contact--support)
 
@@ -48,8 +48,6 @@ Perfect for:
 
 ---
 
-## 📦 **What You'll Get After Purchase**
-
 ### 📁 **Complete Source Code**
 ```
 vibrabg-premium/
@@ -78,109 +76,6 @@ vibrabg-premium/
 ├── 📄 next.config.js               # Next.js configuration
 └── 📄 README.md                    # Setup & deployment guide
 ```
-
-### 📚 **Documentation & Extras**
-- ✅ **Setup Guide** - Step-by-step installation instructions
-- ✅ **Customization Guide** - How to add your own backgrounds & branding
-- ✅ **Deployment Guide** - Deploy to Vercel, Netlify, or any hosting
-- ✅ **Component Documentation** - Detailed component API reference
-- ✅ **Figma Design File** - Original design mockups (Premium+ only)
-- ✅ **Lifetime Updates** - Free updates for 1 year
-
----
-
-## 💰 **Pricing & Licenses**
-
-<table>
-<tr>
-<th width="25%">🏷️ <strong>Starter</strong></th>
-<th width="25%">🚀 <strong>Professional</strong></th>
-<th width="25%">💎 <strong>Premium</strong></th>
-<th width="25%">🏢 <strong>Enterprise</strong></th>
-</tr>
-<tr>
-<td>
-
-**$29**
-<br><small>Perfect for personal projects</small>
-
-**✅ Includes:**
-- Complete source code
-- Setup documentation
-- 1 website license
-- 6 months updates
-- Email support
-
-**❌ Not included:**
-- Commercial use
-- Resale rights
-- Figma files
-
-</td>
-<td>
-
-**$59**
-<br><small>Best for freelancers</small>
-
-**✅ Everything in Starter, plus:**
-- Commercial use license
-- 5 website licenses
-- 1 year updates
-- Priority email support
-- Customization guide
-
-**❌ Not included:**
-- Resale rights
-- Figma files
-
-</td>
-<td>
-
-**$99** ⭐ *Most Popular*
-<br><small>Perfect for agencies</small>
-
-**✅ Everything in Professional, plus:**
-- Unlimited website licenses
-- Figma design files
-- Lifetime updates
-- Discord community access
-- 1-on-1 setup call (30 min)
-
-**❌ Not included:**
-- Resale rights
-
-</td>
-<td>
-
-**$199**
-<br><small>For large organizations</small>
-
-**✅ Everything in Premium, plus:**
-- Full resale rights
-- White-label license
-- Custom branding service
-- Priority feature requests
-- Dedicated support channel
-
-</td>
-</tr>
-<tr>
-<td align="center">
-<a href="#-contact--support"><strong>🛒 Buy Now</strong></a>
-</td>
-<td align="center">
-<a href="#-contact--support"><strong>🛒 Buy Now</strong></a>
-</td>
-<td align="center">
-<a href="#-contact--support"><strong>🛒 Buy Now</strong></a>
-</td>
-<td align="center">
-<a href="#-contact--support"><strong>🛒 Buy Now</strong></a>
-</td>
-</tr>
-</table>
-
-> 💡 **Need a custom solution?** Contact us for enterprise pricing and custom development services.
 
 ---
 
@@ -234,147 +129,18 @@ npm run start
 
 ---
 
+
 ## 📬 **Contact & Support**
 
 ### 💬 **Get in Touch**
-- **📧 Email:** [your-email@domain.com](mailto:your-email@domain.com)
-- **💬 Discord:** [Join our community](https://discord.gg/your-server)
-- **📱 WhatsApp:** [+1 (555) 123-4567](https://wa.me/15551234567)
-- **🐦 Twitter:** [@yourusername](https://twitter.com/yourusername)
+- **📧 Email:** [AxtillaR@Duck.com](mailto:AxtillaR@Duck.com)
+- **🐦 Twitter:** [@AxtillaR](https://twitter.com/AxtillaR)
 
-### 🆓 **Free Version Available**
-> **Want to try before you buy?** Contact us for a limited free version with 10 backgrounds to test the functionality!
-
-### ⚡ **Fast Response Times**
-- **Email Support:** Within 24 hours
-- **Discord/WhatsApp:** Within 2-4 hours
-- **Premium Support:** Within 1 hour (Premium+ customers)
-
-### 🛠️ **Custom Development**
-Need modifications or custom features? We offer:
-- Custom background creation
-- Brand integration
-- Feature development
-- Performance optimization
-- SEO enhancement
 
 ---
 
-## ⚠️ **Important Notice**
+**Made with ❤️ by [LiK Ho N !](https://Axtillar.Github.io )**
 
-> **🔒 This repository only contains the README file. All source code files are private and will be delivered after purchase.**
-> 
-> The complete codebase, documentation, and assets will be provided via:
-> - **Private GitHub repository access**, or
-> - **Direct download link** (ZIP file)
-> - **Email delivery** with all files
-> 
-> You'll receive everything within **2-4 hours** of purchase confirmation.
-
----
-
-## 🎯 **Why Choose VibraBG?**
-
-### ✅ **Production Ready**
-- Thoroughly tested codebase
-- Performance optimized
-- SEO friendly
-- Accessibility compliant
-
-### ✅ **Developer Friendly**
-- Clean, well-documented code
-- TypeScript for better DX
-- Modular component structure
-- Easy to customize and extend
-
-### ✅ **Business Ready**
-- Commercial use license
-- Professional design
-- Scalable architecture
-- Ongoing support
-
-### ✅ **Future Proof**
-- Latest Next.js features
-- Modern React patterns
-- Regular updates
-- Long-term support
-
----
-
-## 📈 **Perfect For**
-
-| Use Case | Why It's Perfect |
-|----------|------------------|
-| **🎨 Design Agencies** | Showcase your background collection professionally |
-| **💻 SaaS Products** | Add a pattern library to your design system |
-| **🚀 Startups** | Quick, professional background showcase solution |
-| **👨‍💻 Freelancers** | Impress clients with modern, responsive design |
-| **🏢 Enterprises** | White-label solution for internal design tools |
-
----
-
-## 🏆 **Customer Reviews**
-
-> *"Absolutely stunning template! The code quality is exceptional and the design is modern and clean. Worth every penny!"* ⭐⭐⭐⭐⭐
-> 
-> **— Sarah M., Frontend Developer**
-
-> *"Saved me weeks of development time. The documentation is thorough and support is fantastic. Highly recommended!"* ⭐⭐⭐⭐⭐
-> 
-> **— Mike R., Design Agency Owner**
-
-> *"Perfect for our SaaS product. Easy to customize and integrate. The TypeScript support is a huge plus!"* ⭐⭐⭐⭐⭐
-> 
-> **— Jennifer L., CTO**
-
----
-
-## 🔄 **Frequently Asked Questions**
-
-<details>
-<summary><strong>❓ Do I get the source code?</strong></summary>
-<br>
-Yes! You get the complete, unminified source code with all components, styles, and documentation.
-</details>
-
-<details>
-<summary><strong>❓ Can I use this for client projects?</strong></summary>
-<br>
-Yes, with Professional license and above, you can use this for unlimited client projects.
-</details>
-
-<details>
-<summary><strong>❓ Do you provide support?</strong></summary>
-<br>
-Yes! We provide email support for all customers, with priority support for Premium+ customers.
-</details>
-
-<details>
-<summary><strong>❓ Can I customize the design?</strong></summary>
-<br>
-Absolutely! The code is fully customizable. We also provide a customization guide and offer custom development services.
-</details>
-
-<details>
-<summary><strong>❓ What if I need help with deployment?</strong></summary>
-<br>
-We provide detailed deployment guides for popular platforms. Premium+ customers get a free setup call.
-</details>
-
----
-
-<div align="center">
-
-### 🚀 **Ready to Get Started?**
-
-**Transform your web projects with VibraBG today!**
-
-[**💬 Contact for Purchase**](#-contact--support) • [**🌐 View Live Demo**](https://vibrabg-demo.vercel.app) • [**📧 Ask Questions**](mailto:your-email@domain.com)
-
----
-
-**Made with ❤️ by [Your Name](https://your-portfolio.com)**
-
-*© 2024 Your Company Name. All rights reserved.*
+*© AxtillaR. All rights reserved.*
 
 </div>
